@@ -1,6 +1,6 @@
 <h2 align="centre">🎵 K556666 MUSIC BOT</h2>
 
-### Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### K556666 Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
 <p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://telegra.ph/file/e7debf0aec7e0204e18ac.jpg" width="300"></a></p>
 <p align="center">
