@@ -1,7 +1,7 @@
 {
-    "name": "Veez Music Bot",
-    "logo": "https://i.postimg.cc/SQBqsJjN/logo8-11-232731.png",
-    "description": "Veez Music project allow you to stream music trought the telegram voice chat feature.",
+    "name": "K556666 Music Bot",
+    "logo": "https://telegra.ph/file/e7debf0aec7e0204e18ac.jpg",
+    "description": "K556666 Music project allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/levina-lab/veezmusic",
     "stack": "container",
@@ -42,12 +42,12 @@
         "BOT_USERNAME": {
             "description": "fill with your bot username without @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "K556666musicbot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username without @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "K556666asisstant"
         },
         "BG_IMAGE": {
             "description": "fill with your costum background image link",
@@ -89,12 +89,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "levinachannel"
+            "value": "channel"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
             "required": false,
-            "value": "VeezSupportGroup"
+            "value": "SupportGroup"
         }
     },
     "buildpacks": [
