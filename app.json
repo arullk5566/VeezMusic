@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/28b43f17f9f9a2b8bbb57.jpg",
     "description": "K556666 Music project allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/arullk5566/veezmusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
