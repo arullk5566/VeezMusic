@@ -39,10 +39,10 @@ async def cbstart(_, query: CallbackQuery):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
                     InlineKeyboardButton(
-                        "🌐 Wiki's Page", url="https://github.com/levina-lab/veezmusic/wiki/Veez-Music-Wiki's")
+                        "🌐 Wiki's Page", url="https://github.com/arullk5566/veezmusic/wiki/klimanam-Music-Wiki's")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Source Code 🧪", url="https://github.com/levina-lab/VeezMusic"
+                        "🧪 Source Code 🧪", url="https://github.com/arullk5566/VeezMusic"
                     )
                 ]
             ]
