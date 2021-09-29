@@ -2,6 +2,9 @@
 
 ### K556666 Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
+<p align="center"><a href="https://t.me/sinx_updates"><img src="https://telegra.ph/file/5a8d5d298d762501d2982.jpg" width="300"></a></p>
+
+
 <h3>Requirements 📝</h3>
 
 - FFmpeg
