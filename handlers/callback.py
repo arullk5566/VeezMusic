@@ -44,7 +44,7 @@ async def cbstart(_, query: CallbackQuery):
                 ]
             ]
         ),
-     disable_web_page_preview=True
+     disable_web_page_preview=False
     )
 
 
