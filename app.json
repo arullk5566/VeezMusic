@@ -1,7 +1,7 @@
 {
-    "name": "Veez Music Bot",
-    "logo": "https://telegra.ph/file/9dd9b20abcda2d7bb6725.png",
-    "description": "veez music allow you to stream music trought the telegram voice chat feature.",
+    "name": "Klimanam Music Bot",
+    "logo": "https://telegra.ph/file/28b43f17f9f9a2b8bbb57.jpg",
+    "description": "klimanam music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/levina-lab/veezmusic",
     "stack": "container",
