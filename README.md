@@ -15,7 +15,7 @@
 
 🧪 Get STRING_SESSION from below:
 
-TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@arullk5566/klimanam-1?v=1)
+TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@arullk5566/StringSession)
 
 🎖 History
 - [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/arullk5566/VeezMusic)
